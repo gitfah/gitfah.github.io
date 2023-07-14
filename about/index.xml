@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on FAH TECHLABS</title>
+    <link>https://techlab.fahuin.my.id/about/</link>
+    <description>Recent content in About on FAH TECHLABS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://techlab.fahuin.my.id/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

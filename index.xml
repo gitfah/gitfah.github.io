@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on FAH TECHLABS</title>
+    <link>https://techlab.fahuin.my.id/</link>
+    <description>Recent content in Home on FAH TECHLABS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jul 2023 11:36:37 +0700</lastBuildDate><atom:link href="https://techlab.fahuin.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gladiator Camp | Batch 1</title>
+      <link>https://techlab.fahuin.my.id/track/events/gladiator-camp/batch-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/track/events/gladiator-camp/batch-1/</guid>
+      <description>Session 2 | On Going Date : 5-6 Agustus 2023
+Start : 04:00 PM, 5 Agustus 2023
+End : 04:00 AM, 6 Agustus 2023
+Venue : Fakultas Adab dan Humaniora
+Scenario Peserta diberikan sebuah komputer dengan konfigurasi MAC ( Mandatory Access Control ), Firewall, Physical Guard dengan konfigurasi yang kacau. Peserta harus mampu melakukan normalisasi terhadap perangkat untuk bisa diakses baik secara fisik dan melalui jaringan lokal. Goal Peserta harus mampu melakukan installasi dan konfigrasi MAC ( Mandatory Access Control ) Application pada linux dengan package manager berbasis RPM dan DEB.</description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>https://techlab.fahuin.my.id/track/example/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/track/example/mermaid/</guid>
+      <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
+With compose theme, you can use mermaid using a custom shortcode as follows:
+Sequence Diagrams Syntax
+1{{&amp;lt; mermaid &amp;gt;}} 2sequenceDiagram 3 participant Alice 4 participant Bob 5 Alice-&amp;gt;&amp;gt;John: Hello John, how are you? 6 loop Healthcheck 7 John-&amp;gt;&amp;gt;John: Fight against hypochondria 8 end 9 Note right of John: Rational thoughts&amp;lt;br/&amp;gt;prevail... 10 John--&amp;gt;&amp;gt;Alice: Great!</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://techlab.fahuin.my.id/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Falcon project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://techlab.fahuin.my.id/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Falcon. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Falcon uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Falcon Template Primer</title>
+      <link>https://techlab.fahuin.my.id/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/blog/goisforlovers/</guid>
+      <description>Falcon uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://techlab.fahuin.my.id/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techlab.fahuin.my.id/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
