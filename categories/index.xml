@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FAH RISET IT</title>
-    <link>https://techlab.fahuin.my.id/categories/</link>
+    <link>https://risetit.fah.uinjkt.ac.id/categories/</link>
     <description>Recent content in Categories on FAH RISET IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://techlab.fahuin.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://risetit.fah.uinjkt.ac.id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://techlab.fahuin.my.id/categories/development/</link>
+      <link>https://risetit.fah.uinjkt.ac.id/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://techlab.fahuin.my.id/categories/development/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://techlab.fahuin.my.id/categories/golang/</link>
+      <link>https://risetit.fah.uinjkt.ac.id/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://techlab.fahuin.my.id/categories/golang/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/categories/golang/</guid>
       <description></description>
     </item>
     

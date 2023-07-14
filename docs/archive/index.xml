@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Record Center on FAH RISET IT</title>
-    <link>https://techlab.fahuin.my.id/docs/archive/</link>
+    <link>https://risetit.fah.uinjkt.ac.id/docs/archive/</link>
     <description>Recent content in Record Center on FAH RISET IT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techlab.fahuin.my.id/docs/archive/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://risetit.fah.uinjkt.ac.id/docs/archive/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
