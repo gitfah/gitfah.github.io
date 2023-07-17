@@ -2,48 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://risetit.fah.uinjkt.ac.id/docs/eoffice/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/documentation/eoffice/</loc>
     <lastmod>2023-07-07T11:36:37+07:00</lastmod>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/</loc>
     <lastmod>2023-07-07T11:36:37+07:00</lastmod>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/docs/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/documentation/</loc>
     <lastmod>2023-07-07T11:36:37+07:00</lastmod>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/track/example/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/bootcamp/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/tracking/project/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/dokumentasi/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/event/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/informasi/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/intern/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/internship/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/track/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/tracking/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/docs/library/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/documentation/library/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/mooc/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/program/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/tutor/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/tutorial/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/docs/account/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/documentation/account/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/struktur/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/member/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/intern/reksakarya/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/internship/reksakarya/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/track/events/gladiator-camp/batch-1/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/bootcamp/gladiator/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/track/example/mermaid/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/bootcamp/gladiator/batch-1/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/docs/archive/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/tracking/project/mermaid/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/documentation/archive/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
