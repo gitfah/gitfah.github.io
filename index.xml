@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://risetit.fah.uinjkt.ac.id/informasi/</guid>
-      <description>Transformasi Berbasis Data Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan, perencancaan dan pengelolaan teknologi informasi yang menjadi bagian dalam program riset teknologi informasi Fakultas Adab dan Humaniora. Kegiatan Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan Modular Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan Layanan Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora.</description>
+      <description>Transformasi Berbasis Data Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan, perencancaan dan pengelolaan teknologi informasi yang menjadi bagian dalam program riset teknologi informasi Fakultas Adab dan Humaniora. Kegiatan Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan. Modular Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan.</description>
     </item>
     
     <item>
@@ -86,6 +86,24 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <guid>https://risetit.fah.uinjkt.ac.id/blog/goisforlovers/</guid>
       <description>Falcon uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Draft End User License Agreement (EULA)</title>
+      <link>https://risetit.fah.uinjkt.ac.id/about/legal/eula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risetit.fah.uinjkt.ac.id/about/legal/eula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draft Legal License</title>
+      <link>https://risetit.fah.uinjkt.ac.id/about/legal/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risetit.fah.uinjkt.ac.id/about/legal/license/</guid>
+      <description></description>
     </item>
     
     <item>
