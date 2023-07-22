@@ -33,6 +33,20 @@
                 href="https://risetit.fah.uinjkt.ac.id/course/"
                 />
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/bootcamp/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/tracking/project/</loc>
@@ -83,6 +97,12 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/event/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/futures/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/update/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/information/</loc>
     <xhtml:link
                 rel="alternate"
@@ -100,8 +120,6 @@
     <loc>https://risetit.fah.uinjkt.ac.id/tracking/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/documentation/library/</loc>
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/news/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/</loc>
     <xhtml:link
@@ -142,6 +160,10 @@
                 hreflang="id"
                 href="https://risetit.fah.uinjkt.ac.id/program/"
                 />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/security/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/stories/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/tutorial/</loc>
   </url><url>
@@ -263,11 +285,105 @@
                 href="https://risetit.fah.uinjkt.ac.id/authors/"
                 />
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/berita-1/_index.md/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/berita-2/_index.md/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/berita-3/_index.md/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/berita-4/_index.md/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/business/berita-5/_index.md/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news_tags/business/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news_cats/business/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course-cats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course-cats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course-cats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course-tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course-tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course-tags/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/legal/mooc-aggrement/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/formats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/formats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/formats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-1/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-3/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-4/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-5/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/legal/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/formats/news/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news_cats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news_cats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news_cats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news_tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news_tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news_tags/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/search/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/stories/story-1/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/stories/story-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/stories/story-3/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/stories/story-4/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/</loc>
   </url>

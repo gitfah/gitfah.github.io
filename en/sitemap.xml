@@ -52,6 +52,18 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/information/"
                 />
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/construction/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,6 +170,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://risetit.fah.uinjkt.ac.id/en/categories/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/course-cats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course-cats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course-cats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/course-tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course-tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course-tags/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/formats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/formats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/formats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/news_cats/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news_cats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news_cats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/news_tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news_tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news_tags/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/tags/</loc>
