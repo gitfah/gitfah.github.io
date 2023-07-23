@@ -51,22 +51,6 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/track/project/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-2/</loc>
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-3/</loc>
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/course/course-4/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/event/</loc>
@@ -274,6 +258,22 @@
     <loc>https://risetit.fah.uinjkt.ac.id/news_tags/business/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news_cats/business/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-3/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/course-cats/</loc>
     <xhtml:link

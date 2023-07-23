@@ -14,18 +14,6 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/course/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/course/course-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/"
-                />
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -144,6 +132,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://risetit.fah.uinjkt.ac.id/en/categories/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/course/course-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/course-cats/</loc>
