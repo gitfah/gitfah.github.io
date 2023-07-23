@@ -8,38 +8,11 @@
     <language>id</language>
     <lastBuildDate>Fri, 07 Jul 2023 11:36:37 +0700</lastBuildDate><atom:link href="https://risetit.fah.uinjkt.ac.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dalam Penngembangan</title>
-      <link>https://risetit.fah.uinjkt.ac.id/construction/</link>
+      <title>Information</title>
+      <link>https://risetit.fah.uinjkt.ac.id/report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://risetit.fah.uinjkt.ac.id/construction/</guid>
-      <description>Under Construction</description>
-    </item>
-    
-    <item>
-      <title>Dalam Perbaikan</title>
-      <link>https://risetit.fah.uinjkt.ac.id/maintenance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://risetit.fah.uinjkt.ac.id/maintenance/</guid>
-      <description>Under Construction</description>
-    </item>
-    
-    <item>
-      <title>Dokumentasi</title>
-      <link>https://risetit.fah.uinjkt.ac.id/documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://risetit.fah.uinjkt.ac.id/documentation/</guid>
-      <description>Dokumentasi</description>
-    </item>
-    
-    <item>
-      <title>Informasi</title>
-      <link>https://risetit.fah.uinjkt.ac.id/information/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://risetit.fah.uinjkt.ac.id/information/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/report/</guid>
       <description>Transformasi Berbasis Data Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan, perencancaan dan pengelolaan teknologi informasi yang menjadi bagian dalam program riset teknologi informasi Fakultas Adab dan Humaniora. Kegiatan Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan. Modular Bargabung menajadi bagian dari riset teknologi informasi Fakultas Adab dan Humaniora. Temukan dan monitor informasi terkait laporan.</description>
     </item>
     
@@ -126,10 +99,10 @@
     
     <item>
       <title>Gladiator Camp | Batch 1</title>
-      <link>https://risetit.fah.uinjkt.ac.id/bootcamp/gladiator/batch-1/</link>
+      <link>https://risetit.fah.uinjkt.ac.id/event/bootcamp/gladiator/batch-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://risetit.fah.uinjkt.ac.id/bootcamp/gladiator/batch-1/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/event/bootcamp/gladiator/batch-1/</guid>
       <description>Session 2 | On Going Date : 5-6 Agustus 2023
 Start : 04:00 PM, 5 Agustus 2023
 End : 04:00 AM, 6 Agustus 2023
@@ -139,10 +112,10 @@ Scenario Peserta diberikan sebuah komputer dengan konfigurasi MAC ( Mandatory Ac
     
     <item>
       <title>Mermaid</title>
-      <link>https://risetit.fah.uinjkt.ac.id/tracking/project/mermaid/</link>
+      <link>https://risetit.fah.uinjkt.ac.id/track/project/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://risetit.fah.uinjkt.ac.id/tracking/project/mermaid/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/track/project/mermaid/</guid>
       <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
 With compose theme, you can use mermaid using a custom shortcode as follows:
 Sequence Diagrams Syntax
@@ -225,10 +198,10 @@ This document is a brief primer on using Go templates.</description>
     
     <item>
       <title>Faculty Of Literature and Humanities Academy Agreement</title>
-      <link>https://risetit.fah.uinjkt.ac.id/legal/mooc-aggrement/</link>
+      <link>https://risetit.fah.uinjkt.ac.id/about/legal/internal/mooc-aggrement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://risetit.fah.uinjkt.ac.id/legal/mooc-aggrement/</guid>
+      <guid>https://risetit.fah.uinjkt.ac.id/about/legal/internal/mooc-aggrement/</guid>
       <description>General Terms and Conditions of Use Program Appendix 1. Background and Purpose. This Program Appendix (&amp;quot;Appendix&amp;quot;) establishes the terms and conditions under which Partner will participate in the Faculty Of Literature and Humanities Academy Program (&amp;quot;FAH MOOC&amp;quot; or &amp;quot;Program&amp;quot;) in the Territory. Under the Program, Faculty Of Literature and Humanities Academy provides Partner an Internet deployed and managed Curriculum, Software, and Services and Partner provides the facilities and Teachers and delivers the Courses to Students as set forth in this Appendix.</description>
     </item>
     

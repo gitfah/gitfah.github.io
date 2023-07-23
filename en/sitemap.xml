@@ -26,8 +26,6 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/documentaion/</loc>
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -40,16 +38,16 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/information/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/report/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/information/"
+                href="https://risetit.fah.uinjkt.ac.id/report/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/information/"
+                href="https://risetit.fah.uinjkt.ac.id/en/report/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/news/</loc>
@@ -62,18 +60,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://risetit.fah.uinjkt.ac.id/en/news/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/construction/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/construction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/construction/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/</loc>
@@ -110,18 +96,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://risetit.fah.uinjkt.ac.id/en/program/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/maintenance/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/maintenance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/maintenance/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-2/</loc>
