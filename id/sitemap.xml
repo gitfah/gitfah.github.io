@@ -61,6 +61,8 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/report/</loc>
     <xhtml:link
                 rel="alternate"
@@ -315,13 +317,23 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-1/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/game-1/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/game-2/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-3/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/game-3/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-4/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/game-4/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/news/games/game-5/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/news/headline/game-5/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/formats/news/</loc>
   </url><url>
