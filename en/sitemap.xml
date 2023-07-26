@@ -38,18 +38,6 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/report/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/news/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/news/"
-                />
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,6 +110,18 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/authors/"
                 />
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/canals/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/canals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/canals/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -180,6 +180,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://risetit.fah.uinjkt.ac.id/en/formats/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/en/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/news/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/news_cats/</loc>
