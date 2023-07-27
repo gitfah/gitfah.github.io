@@ -38,18 +38,6 @@
                 href="https://risetit.fah.uinjkt.ac.id/en/report/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/en/program/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/program/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/program/"
-                />
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/en/authors/</loc>
     <xhtml:link
                 rel="alternate"

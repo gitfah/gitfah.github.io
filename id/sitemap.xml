@@ -37,6 +37,18 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/track/project/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/materi-1/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/materi-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/materi-3/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/materi-1/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/materi-2/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/materi-3/</loc>
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/event/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/report/</loc>
@@ -56,18 +68,6 @@
     <loc>https://risetit.fah.uinjkt.ac.id/track/internship/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/docs/library/</loc>
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/program/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/program/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/program/"
-                />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/howto/</loc>
   </url><url>

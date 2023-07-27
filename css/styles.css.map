@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/lektor/Productions/it-research/techlab",
+	"sourceRoot": "/home/karim/Productions/it-research/techlab",
 	"sources": [
 		"themes/falcon/assets/sass/main.sass",
 		"themes/falcon/assets/sass/_variables.sass",
