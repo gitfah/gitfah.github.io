@@ -93,9 +93,33 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/docs/library/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/howto/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/docs/account/</loc>
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/"
+                />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/struktur/</loc>
   </url><url>
@@ -382,18 +406,6 @@
                 href="https://risetit.fah.uinjkt.ac.id/courses/information-security/"
                 />
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/"
-                />
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -443,18 +455,6 @@
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/search/</loc>
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/"
-                />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/</loc>
   </url><url>
