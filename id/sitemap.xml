@@ -21,18 +21,6 @@
     <loc>https://risetit.fah.uinjkt.ac.id/docs/</loc>
     <lastmod>2023-07-07T11:36:37+07:00</lastmod>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/"
-                />
-  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/event/bootcamp/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/track/project/</loc>
@@ -93,33 +81,21 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/docs/library/</loc>
   </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/</loc>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/"
+                href="https://risetit.fah.uinjkt.ac.id/course/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/howto/</loc>
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/docs/account/</loc>
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/"
-                />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/struktur/</loc>
   </url><url>
@@ -344,6 +320,78 @@
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/about/legal/</loc>
   </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-1/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-2/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-3/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-4/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-5/"
+                />
+  </url><url>
+    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-6/"
+                />
+  </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -404,54 +452,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://risetit.fah.uinjkt.ac.id/courses/information-security/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-3/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-4/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-5/"
-                />
-  </url><url>
-    <loc>https://risetit.fah.uinjkt.ac.id/course/course-1/session-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://risetit.fah.uinjkt.ac.id/en/course/course-1/session-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://risetit.fah.uinjkt.ac.id/course/course-1/session-6/"
                 />
   </url><url>
     <loc>https://risetit.fah.uinjkt.ac.id/search/</loc>
